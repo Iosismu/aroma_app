@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="music">
+        <item>BTS - DYNAMITE</item>
+        <item>헤이즈 - 비도 오고 그래서</item>
+        <item>버스커 버스커 - 벛꽃엔딩</item>
+        <item>바이브 - 가을타나봐</item>
+        <item>애국가</item>
+    </string-array>
+</resources>
