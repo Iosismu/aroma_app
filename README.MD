@@ -1,6 +1,7 @@
 # 📱 AROMA Android App
 
-[상세 코드 보기 [Docs]](https://drive.google.com/file/d/16xxYELVgsO8QSeTsyH_2ys3BdXWiv0Zs/view?usp=sharing)
+[상세 코드 보기 [Docs]](https://drive.google.com/file/d/16xxYELVgsO8QSeTsyH_2ys3BdXWiv0Zs/view?usp=sharing)<br><br>
+[시연 영상보러가기](https://www.youtube.com/watch?v=6XIpaUdc13I)
 
 - IOT 자동 조향 프로젝트에서 사용자가 디퓨저를 컨트롤하는 안드로이드 앱 프로젝트 입니다. (DB설계, 서버 작업, 데이터 크롤링은 아래 문서 참고)
 
@@ -37,9 +38,3 @@
 </p>
 
 - 회원가입(기기 등록) 시 입력 SerialNum의 값이 서버DB의 값과 맞는지 비교 후, 회원가입 와료 또는 오류
-
-## 시연 영상
-
-<p align='center'>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=6XIpaUdc13I" frameborder="0" allowfullscreen></iframe>
-</p>
